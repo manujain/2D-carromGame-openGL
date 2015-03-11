@@ -1,0 +1,20 @@
+This is single player board game.
+
+Keyboard controls:-
+Left arrow -> Move striker left.
+Right arrow -> Move striker right.
+Up arrow -> Increase power.
+Down arrow -> Decrease power.
+a -> Rotate anti-clockwise.
+c -> Rotate clockwise.
+spacebar -> Hit the striker.
+p -> pause
+Esc -> exit
+
+Mouse controls:-
+Right click and drag to move striker.
+Left click to hit.
+
+Game includes extra features like puasing the game by pressing 'p' and again play it by pressing 'p'.
+Score is blinking.
+If striker goes in pocket then it resets back. 
